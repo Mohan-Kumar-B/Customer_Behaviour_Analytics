@@ -2,6 +2,9 @@
 
 An **end-to-end Data Analytics project** analyzing customer purchasing behaviour using **Python, SQL, PostgreSQL, and Power BI**.
 
+<img width="558" height="304" alt="Screenshot 2026-09-15 191701" src="https://github.com/user-attachments/assets/08ff0c1c-e6a1-4281-a54b-0ee030d49af9" />
+
+
 ## 🎯 Project Objective
 
 To analyze **customer behaviour, purchasing patterns, product performance, and customer preferences** and convert the findings into **actionable business insights**.
