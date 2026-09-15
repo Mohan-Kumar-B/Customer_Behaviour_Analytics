@@ -64,9 +64,7 @@ The project transforms **raw customer data** into **clear business insights** th
  ┣ 📂 Report
  ┣ 📂 Presentation
  ┗ 📄 README.md
-
-'''
-
+```
 
 ## 🚀 How to Run
 
