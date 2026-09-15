@@ -65,20 +65,18 @@ The project transforms **raw customer data** into **clear business insights** th
  ┣ 📂 Presentation
  ┗ 📄 README.md
 
-'''text
+'''
 
 
+## 🚀 How to Run
 
+**1.** Load the dataset in **Python**  
+**2.** Perform **EDA & Data Cleaning**  
+**3.** Load the cleaned data into **PostgreSQL**  
+**4.** Run **SQL Analysis Queries**  
+**5.** Open the **Power BI Dashboard**  
+**6.** Explore insights using the **interactive filters**
 
-# 🚀 How to Run
-
-1. **Load the dataset in Python**
-2. **Perform EDA & Data Cleaning**
-3. **Load the cleaned data into PostgreSQL**
-4. **Run SQL Analysis Queries**
-5. **Open the Power BI Dashboard**
-6. **Explore insights using the interactive filters**
-
-#👨‍💻 Skills Demonstrated
+## 👨‍💻 Skills Demonstrated
 
 **Python • Pandas • PostgreSQL • SQL • Data Cleaning • EDA • Power BI • Data Visualization • Business Analysis • Data Storytelling**
